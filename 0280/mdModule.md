@@ -121,7 +121,7 @@ and every value that is not an element of $X$ must make $P$ false.
 
 # A set with no elements
 
-A set with no elements is called, no surprisingly, an empty set. While
+A set with no elements is called, not surprisingly, an empty set. While
 there are many representations of an empty set, we will use the one that
 is the most intuitive: $\\{\\}$.
 
